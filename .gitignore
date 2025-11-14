@@ -1,0 +1,45 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output directories
+/bin/
+/pkg/
+
+# Build / coverage artifacts
+coverage.out
+*.coverprofile
+
+# Dependency directories (uncomment if you vendor)
+# /vendor/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and logs
+.env
+.env.* 
+*.log
+
+# Go modules (do not ignore go.sum)
+# If you use Go workspace files
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+todos.json
