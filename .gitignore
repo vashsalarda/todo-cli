@@ -42,4 +42,8 @@ desktop.ini
 *.swp
 *~
 
+# Go workspace file
+go.work
+go.work.sum
+
 todos.json
